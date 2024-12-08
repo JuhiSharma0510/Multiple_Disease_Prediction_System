@@ -9,12 +9,12 @@ Multiple Disease Prediction System, a machine learning-powered application desig
 -Pre-trained machine learning models ensure accurate predictions.
 
 **Project Structure** <br>
-├── dataset/                                                                  # Contains the datasets used for training the models<br>
-├── models/                                                                   # Pre-trained ML models<br>
-├── app.py                                                                    # Streamlit app for the web interface<br>
-├── requirements.txt                                                          # Python dependencies<br>
-├── README.md                                                                 # Project documentation<br>
-└── other scripts/                                                            # Code for data preprocessing, training, etc.
+├── dataset/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#Contains the datasets used for training the models<br>
+├── models/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #Pre-trained ML models<br>
+├── app.py&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  #Streamlit app for the web interface<br>
+├── requirements.txt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    #Python dependencies<br>
+├── README.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     #Project documentation<br>
+└── other scripts/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#Code for data preprocessing, training, etc.
 
 **Prerequisites**<br>
 Python 3.8 or above<br>
@@ -25,8 +25,7 @@ pip install -r requirements.txt
 Clone the repository:<br>
 git clone https://github.com/JuhiSharma0510/Multiple_Disease_Prediction_System.git<br>
 cd Multiple_Disease_Prediction_System<br>
-Run the Streamlit app:<br>
-streamlit run app.py<br>
+Run the Streamlit app: streamlit run app.py<br>
 Open the app in your browser (usually at http://localhost:8501).
 
 **Usage**<br>
