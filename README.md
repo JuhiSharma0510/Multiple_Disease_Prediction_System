@@ -3,8 +3,8 @@
 
 Multiple Disease Prediction System, a machine learning-powered application designed to predict the likelihood of multiple diseases based on user-provided data. The project is implemented in Python and deployed as an interactive web app using Streamlit.
 
-*Features*
--Predicts the risk of multiple diseases such as Diabetes, Heart Disease, and Parkinson's Disease.
+**Features** <br>
+-Predicts the risk of multiple diseases such as Diabetes, Heart Disease, and Parkinson's Disease.<br>
 -User-friendly web interface for easy data input and result visualization.
 -Pre-trained machine learning models ensure accurate predictions.
 
