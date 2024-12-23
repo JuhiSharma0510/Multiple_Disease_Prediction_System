@@ -16,11 +16,11 @@ st.set_page_config(page_title="Health Assistant",
 
 #loading the saved model
 
-diabetes_model = pickle.load(open('diabetes_model.sav','rb'))
+diabetes_model = pickle.load(open('saved_model/diabetes_model.sav','rb'))
 
-heart_disease_model = pickle.load(open('heart_disease_model.sav','rb'))
+heart_disease_model = pickle.load(open('saved_model/heart_disease_model.sav','rb'))
                              
-parkisons_model = pickle.load(open('parkinsons_model.sav','rb'))
+parkisons_model = pickle.load(open('saved_model/parkinsons_model.sav','rb'))
 
 
 # sidebar for navigation
