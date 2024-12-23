@@ -1,5 +1,5 @@
 # Multiple_Disease_Prediction_Streamlit_APP
-**View Project** : https://multiple-disease-prediction-app-0510.streamlit.app/
+**View Project** : https://multiple-disease-prediction-system-05.streamlit.app/
 
 Multiple Disease Prediction System, a machine learning-powered application designed to predict the likelihood of multiple diseases based on user-provided data. The project is implemented in Python and deployed as an interactive web app using Streamlit.
 
