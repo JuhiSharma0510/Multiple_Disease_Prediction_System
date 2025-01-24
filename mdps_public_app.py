@@ -120,7 +120,7 @@ if selected == 'Heart Disease Prediction':
         restecg = st.text_input('Resting Electrocardiograph Results')
     
     with col2:
-        thalac = st.text('Maximum Heart Rate achieved')
+        thalac = st.text_input('Maximum Heart Rate achieved')
         
     with col3:
         exang = st.text_input('Exercise Induced Angina')
